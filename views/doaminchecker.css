@@ -9,11 +9,9 @@ body{
     padding-top: 55px;
     padding-left: 60px;
 }
-
 h1{
-    font-family: "Courier Head";
+    font-family: "Courier Head"; 
 }
-
 form{
     margin:auto;max-width:300px;
 }
