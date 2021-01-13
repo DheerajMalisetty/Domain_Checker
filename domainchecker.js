@@ -46,7 +46,7 @@ app.post('/check', function(req, res)
                 ret = {err : err, result : result+'-'+value}
             });
 
-            while((ret == null))
+            while((ret == null)) // this is a comment.
             {
                 deasync.runLoopOnce();
             }
