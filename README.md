@@ -1,2 +1,3 @@
 # Domain_Checker
-Tool to check Domain Status
+
+This is a tool to check Domain Status.
